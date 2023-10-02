@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\bin\Debug\adinisizkoyun.exe.config
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\bin\Debug\adinisizkoyun.exe
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\bin\Debug\adinisizkoyun.pdb
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.Form1.resources
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.Properties.Resources.resources
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.csproj.GenerateResource.cache
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.exe
+C:\Users\User\source\repos\adinisizkoyun\adinisizkoyun\obj\Debug\adinisizkoyun.pdb
